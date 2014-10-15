@@ -1,0 +1,154 @@
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Wargag.dll
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Wargag.pdb
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\AppManifest.xaml
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Wargag_Debug_AnyCPU.xap
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\App.g.cs
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\MainPage.g.cs
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.g.resources
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.Resources.AppResources.resources
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.csproj.GenerateResource.Cache
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.dll
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.pdb
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\XapCacheFile.xml
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.csprojResolveAssemblyReference.cache
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Newtonsoft.Json.dll
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Newtonsoft.Json.pdb
+c:\users\sergius\documents\visual studio 2012\Projects\Wargag\Wargag\Bin\Debug\Newtonsoft.Json.xml
+C:\Wargag\Wargag\Bin\Debug\Assets\ApplicationIcon.png
+C:\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Wargag\Wargag\Bin\Debug\Wargag.dll
+C:\Wargag\Wargag\Bin\Debug\Wargag.pdb
+C:\Wargag\Wargag\Bin\Debug\AppManifest.xaml
+C:\Wargag\Wargag\Bin\Debug\Properties\WMAppManifest.xml
+C:\Wargag\Wargag\Bin\Debug\Wargag_Debug_AnyCPU.xap
+C:\Wargag\Wargag\obj\Debug\App.g.cs
+C:\Wargag\Wargag\obj\Debug\MainPage.g.cs
+C:\Wargag\Wargag\obj\Debug\Wargag.g.resources
+C:\Wargag\Wargag\obj\Debug\Wargag.Resources.AppResources.resources
+C:\Wargag\Wargag\obj\Debug\Wargag.csproj.GenerateResource.Cache
+C:\Wargag\Wargag\obj\Debug\Wargag.dll
+C:\Wargag\Wargag\obj\Debug\Wargag.pdb
+C:\Wargag\Wargag\obj\Debug\XapCacheFile.xml
+C:\Wargag\Wargag\obj\Debug\Wargag.csprojResolveAssemblyReference.cache
+D:\Wargag\Bin\Debug\Assets\ApplicationIcon.png
+D:\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Wargag\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Wargag\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Wargag\Bin\Debug\Wargag.dll
+D:\Wargag\Bin\Debug\Wargag.pdb
+D:\Wargag\Bin\Debug\AppManifest.xaml
+D:\Wargag\Bin\Debug\Wargag_Debug_AnyCPU.xap
+D:\Wargag\Bin\Debug\Newtonsoft.Json.dll
+D:\Wargag\Bin\Debug\Newtonsoft.Json.pdb
+D:\Wargag\Bin\Debug\Newtonsoft.Json.xml
+D:\Wargag\obj\Debug\Wargag.csprojResolveAssemblyReference.cache
+D:\Wargag\obj\Debug\App.g.cs
+D:\Wargag\obj\Debug\MainPage.g.cs
+D:\Wargag\obj\Debug\Wargag.g.resources
+D:\Wargag\obj\Debug\Wargag.Resources.AppResources.resources
+D:\Wargag\obj\Debug\Wargag.csproj.GenerateResource.Cache
+D:\Wargag\obj\Debug\Wargag.dll
+D:\Wargag\obj\Debug\Wargag.pdb
+D:\Wargag\obj\Debug\XapCacheFile.xml
+D:\Wargag\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Wargag.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Wargag.pdb
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\AppManifest.xaml
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Wargag_Debug_AnyCPU.xap
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.csprojResolveAssemblyReference.cache
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\App.g.cs
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\MainPage.g.cs
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.g.resources
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.Resources.AppResources.resources
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.csproj.GenerateResource.Cache
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\Wargag.pdb
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\XapCacheFile.xml
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\demes_000\Documents\Visual Studio 2012\Projects\Wargag\Wargag\obj\Debug\Details.g.cs
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Assets\ApplicationIcon.png
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Wargag.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Wargag.pdb
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\AppManifest.xaml
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Properties\WMAppManifest.xml
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Wargag_Debug_AnyCPU.xap
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\System.Windows.Interactivity.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\Wargag.csprojResolveAssemblyReference.cache
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\App.g.cs
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\Details.g.cs
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\MainPage.g.cs
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\Wargag.g.resources
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\Wargag.Resources.AppResources.resources
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\Wargag.csproj.GenerateResource.Cache
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\Wargag.dll
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\Wargag.pdb
+D:\work\projects\Wargag_new\Wargag\Wargag\obj\Debug\XapCacheFile.xml
